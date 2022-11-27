@@ -9,7 +9,7 @@ namespace Bank{
 
         private void OnTriggerEnter(Collider other)
         {
-            if (other.gameObject.GetComponent<Player>())
+            if (other.gameObject.TryGetComponent(out Player player))
             {
                 addCoinsEvent?.Invoke(coinsAmount);
                 Destroy(this.gameObject);
