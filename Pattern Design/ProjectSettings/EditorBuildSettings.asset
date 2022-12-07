@@ -4,5 +4,47 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Patterns/Creational Patterns/Pattern Factory/Scenes/Main_Scene0.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Patterns/Creational Patterns/Pattern Singleton/Scenes/Main_Scene1.unity
+    guid: 0e9c31f4909497846bbb902d8ddd0b7b
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern State Machine/Scene/Main_Scene2.unity
+    guid: 5959c1c53daae174f8947a9f34c9d756
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Observer/Scene/Main_Scene3.unity
+    guid: 9b50098083093db4cbef800fda55e640
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Strategy/Scenes/Main_Scene4.unity
+    guid: ad1b22c7bd8d7cb4aaa02c690b7aa607
+  - enabled: 1
+    path: Assets/Patterns/Other Patterns/Pattern Builder&Proxy&Stategy/Scene/Main_Scene5.unity
+    guid: 52e252e9297a13b43953b7e30fcb62de
+  - enabled: 1
+    path: Assets/Patterns/Structural Patterns/Pattern Decorator/Scene/Main_Scene6.unity
+    guid: 2e70f453b07c32d47a868dc9dece60ab
+  - enabled: 1
+    path: Assets/Patterns/Creational Patterns/Pattern Builder/Scene/Main_Scene7.unity
+    guid: 89f07380d5bb0b2469b2d5804025214d
+  - enabled: 1
+    path: Assets/Patterns/Architectural Patterns/Pattern MVP/Scene/Main_Scene8.unity
+    guid: cb3cd6a97f4858f4cb0882041488e2d9
+  - enabled: 1
+    path: Assets/Patterns/Structural Patterns/Pattern Facade/Scene/Main_Scene9.unity
+    guid: 14960e39138501243a47124af010d2a5
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Command/Scene/Main_Scene10.unity
+    guid: a523ec5f9290d674aa529cce2e3c7bf2
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Visitor/Scene/Main_Scene11.unity
+    guid: a8617976fadef5746a81977451254fc3
+  - enabled: 1
+    path: Assets/Patterns/Creational Patterns/Pattern Prototype/Scene/Main_Scene12.unity
+    guid: 897e1dd3be206cd4d979db119b646c22
+  - enabled: 1
+    path: Assets/Patterns/Creational Patterns/Pattern Abstact Factory/Scene/Main_Scene13.unity
+    guid: ae9c241782e92be4abe4797bac9d7f79
   m_configObjects: {}
