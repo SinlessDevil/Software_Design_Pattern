@@ -53,4 +53,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Patterns/Combination Patterns/Pattern Composite&Visitor/Scene/Main_Scene15.unity
     guid: a7dbff3ec6657ac48bb53aadaa8fd73f
+  - enabled: 1
+    path: Assets/Patterns/Structural Patterns/Pattern Proxy/Scene/Main_Scene16.unity
+    guid: 3cb44431b774ced41bf95eb7e560e474
+  - enabled: 1
+    path: Assets/Patterns/Creational Patterns/Paattern Pool Objects/Scene/Main_Scene17.unity
+    guid: c95bf0e7d3a5de94aba06a6ce6289b03
   m_configObjects: {}
