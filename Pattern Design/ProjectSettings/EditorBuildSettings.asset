@@ -59,4 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Patterns/Creational Patterns/Paattern Pool Objects/Scene/Main_Scene17.unity
     guid: c95bf0e7d3a5de94aba06a6ce6289b03
+  - enabled: 1
+    path: Assets/Patterns/Structural Patterns/Pattern Flyweight/Scene/Main_Scene18.unity
+    guid: 359558b747541ae44a61dd30976d0b62
   m_configObjects: {}
