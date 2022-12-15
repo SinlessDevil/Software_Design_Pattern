@@ -24,8 +24,11 @@ EditorBuildSettings:
     path: Assets/Patterns/Combination Patterns/Pattern Builder&Proxy&Stategy/Scene/Main_Scene5.unity
     guid: 52e252e9297a13b43953b7e30fcb62de
   - enabled: 1
-    path: Assets/Patterns/Structural Patterns/Pattern Decorator/Scene/Main_Scene6.unity
+    path: Assets/Patterns/Structural Patterns/Pattern Decorator/Example 1/Scene/Main_Scene6.unity
     guid: 2e70f453b07c32d47a868dc9dece60ab
+  - enabled: 1
+    path: Assets/Patterns/Structural Patterns/Pattern Decorator/Example 2/Scene/Main_Scene6.1.unity
+    guid: 26e70e51232e1a14fa03086c7c09869e
   - enabled: 1
     path: Assets/Patterns/Creational Patterns/Pattern Builder/Scene/Main_Scene7.unity
     guid: 89f07380d5bb0b2469b2d5804025214d
