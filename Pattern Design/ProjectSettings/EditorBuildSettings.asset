@@ -80,4 +80,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Patterns/Behavioral Patterns/Pattern ChainOfResposibility/Scene/Main_Scene23.unity
     guid: faadf7a947d257b47ac9707066887faf
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Mediator/Scene/Main_Scene24.unity
+    guid: f1da8dbb4be4963468f23cb1e65823e6
   m_configObjects: {}
