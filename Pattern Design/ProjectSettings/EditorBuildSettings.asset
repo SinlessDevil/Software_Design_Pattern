@@ -68,4 +68,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Patterns/Behavioral Patterns/Pattern Template Method/Scene/Main_Scene19.unity
     guid: 1a499e090dbfb0145adc1daa673537f6
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Iterator/Scene/Main_Scene20.unity
+    guid: 89f33c6137732684ab7fc0f11d7fd994
   m_configObjects: {}
