@@ -71,4 +71,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Patterns/Behavioral Patterns/Pattern Iterator/Scene/Main_Scene20.unity
     guid: 89f33c6137732684ab7fc0f11d7fd994
+  - enabled: 1
+    path: Assets/Patterns/Structural Patterns/Pattern Subclass Sandbox/Scene/Main_Scene21.unity
+    guid: 994f4b3e04379bf4386534cc3a64bb04
   m_configObjects: {}
