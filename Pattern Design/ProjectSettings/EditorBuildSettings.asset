@@ -74,4 +74,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Patterns/Structural Patterns/Pattern Subclass Sandbox/Scene/Main_Scene21.unity
     guid: 994f4b3e04379bf4386534cc3a64bb04
+  - enabled: 1
+    path: Assets/Patterns/Behavioral Patterns/Pattern Memento/Scene/Main_Scene22.unity
+    guid: c186f6e615322f540a6deb3700958d2a
   m_configObjects: {}
