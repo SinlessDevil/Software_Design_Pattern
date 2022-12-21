@@ -41,3 +41,18 @@ Where the player could fall into the water for example and I have already change
 * Pattern Factory or Abstract Factory - Pattern which allows you to conveniently create objects
 
 * Pattern Singletone - You have to be as careful as possible with this patter and try to use it as little as possible. It is intended to provide a global access point to all components, properties, and fields of a class. It also tells us that there should only be one object!
+
+# Structural Patterns
+
+* Pattern Flyweight - An incredibly useful pattern that everyone should know - is a structural design pattern that allows programs to support vast quantities of objects by keeping their memory consumption low.
+The pattern achieves it by sharing parts of object state between multiple objects. In other words, the Flyweight saves RAM by caching the same data used by different objects.
+
+* Pattern Subclass Sandbox - The subclass sandbox pattern describes a basic idea, while not having a lot of detailed mechanics. You will need the pattern when you have several similar subclasses. If you have to make a tiny change, then change the base class, while all subclasses shouldn't have to be touched. So the base class has to be able to provide all of the operations a derived class needs to perform.
+
+* Pattern Decorator - is a structural pattern that allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called decorators. For example Abilities, Skills, game effects, they often have a tendency to change a little bit just for this patter is best suited 
+
+* Pattern Composite - is a structural design pattern that allows composing objects into a tree-like structure and work with the it as if it was a singular object.For example, this is often a strategy where you have to give a command to all units 
+
+---
+
+That's all for now.)
